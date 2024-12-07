@@ -32,4 +32,5 @@ cd Meuprimeiro_ruby
 ruby First.rb
 ```
 
-https://arquivo.devmedia.com.br/noticias/artigos/artigo_padroes-arquiteturais-em-ruby_38761.png
+![obrigado!](https://arquivo.devmedia.com.br/noticias/artigos/artigo_padroes-arquiteturais-em-ruby_38761.png)
+

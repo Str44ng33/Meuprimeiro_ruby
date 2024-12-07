@@ -6,8 +6,7 @@ eu tô aprendendo ruby pelo youtube mesmo, eu com a primeira aula esse foi meu p
 
 ### Oque ele faz???
 
-**Esse programa em Ruby vai distinguir se você é maior ou menor de idade 
-e se você pode ter o porte de arma no brasil**
+**Esse programa em Ruby vai distinguir se você é maior ou menor de idade**
 
 ### Como Usar
 **1. Instale as dependências**
